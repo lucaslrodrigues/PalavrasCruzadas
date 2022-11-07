@@ -162,8 +162,7 @@ function validar(params) {
     flash == "FLASH" &&
     dualcore == "DUALCORE" &&
     eprom == "EPROM" &&
-    thread == "THREAD" &&
-    i7 == "I7"
+    thread == "THREADS" 
   ) {
     alert("PARÁBENS!!!!! voçê acertou todas as respostas");
   } else {
